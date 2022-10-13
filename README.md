@@ -2,6 +2,8 @@
 
 A Discord bot that fetches and shows token data from Coingecko.
 
+<img src="./img/1.png"/>
+
 ## Developer quick start 👩‍💻
 
 `npm run dev` will launch the bot locally, with hot reloading included.
